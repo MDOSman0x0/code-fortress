@@ -1,6 +1,5 @@
 ####################################################################################################################
-#          Author: Brandon Cabatu										   #							
-#          Red ID: 825130235											   #
+#          Author: Brandon Cabatu										   #																		   #
 #         Project: Bitmap Game - Maze Escape 									   #
 # Completion Date: May 1, 2022                                                                                     #
 #          NOTICE: THIS CODE IS THE PROPERTY OF BRANDON CABATU AND CAN NOT BE ALTERED OR CLAIMED AS OWN WITHOUT    #
