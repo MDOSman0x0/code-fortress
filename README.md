@@ -1,2 +1,4 @@
 # code-fortress
-Personal space for projects and related files
+Personal Repositories Containing:
+- Projects from College
+- Projects from Home
